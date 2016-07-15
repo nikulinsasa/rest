@@ -4,8 +4,4 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 
-	<servlet>
-		<servlet-name>rest.MyApplication</servlet-name>
-	</servlet>
-
 </web-app>
